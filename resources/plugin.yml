@@ -1,0 +1,9 @@
+name: LunarClientAPI
+version: 1.0
+main: me.abhi.lunarclientapi.LunarClientAPI
+author: abhi
+commands:
+  lunarclient:
+    aliases: [lc]
+  emote:
+    aliases: [em, e]
